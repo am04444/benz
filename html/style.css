@@ -1,0 +1,49 @@
+h1
+{
+    color: red;
+}
+
+body
+{
+    background-color: white;
+    background-image: url("benz.jpg");
+    
+}
+#carte
+{       
+        
+        width: 1000px;
+        margin: 0 auto;
+        background-color: green;
+        text-align: center;
+        align-content: center`;
+        
+}
+ul {
+    list-style-type: none;
+    margin:0;
+    padding:0;
+    background-color:#283645;
+    overflow:hidden
+}
+li {
+    float:left; 
+    
+}
+li a {
+    color: white;
+    padding: 20px;
+    text-decoration: none;
+}
+
+li a:hover{
+    background-color:#1490D7;
+}
+.footer{
+position:relative;
+vertical-align:top;
+bottom:0;
+width:100%;
+height:60px;
+text-align: left;
+}
